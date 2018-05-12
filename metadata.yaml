@@ -1,0 +1,27 @@
+_repo: A-Little-Book-of-Filipino-Riddles_14358
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Starr, Frederick
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '5490'
+    url: http://www.gutenberg.org/2009/agents/5490
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Starr
+description: ''
+gutenberg_issued: '2004-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Riddles, Philippine'
+- !lcc 'PN'
+title: A Little Book of Filipino Riddles
+url: http://www.gutenberg.org/ebooks/14358
